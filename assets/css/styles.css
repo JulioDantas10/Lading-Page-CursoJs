@@ -10,7 +10,7 @@
 
 
 .main-bg{
-    background-image: url(/Landing-Page/assets/img/MainBG.svg);     
+    background-image: url(../img/MainBG.svg);     
     background-size: cover;
     background-position: center center;
     color: var(--white-color)
